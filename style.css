@@ -12,7 +12,7 @@
     padding-bottom: 2%;
     padding-left:2%;
     padding-right:2%;
-    background: url('images/background.jpg') no-repeat center fixed; 
+    background: url('../images/background.jpg') no-repeat center fixed; 
     background-size: cover;
     background-position: center;
     min-height: 800px;

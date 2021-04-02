@@ -151,21 +151,5 @@
     color: black;
   }
 
-   /*---honors page--*/
-
-   .title {
-    text-align: left;
-    margin-bottom: 10px; 
-    font-size: 1.7em; 
-    font-weight: 550;
-  }
-
-  .date {
-    text-align: left;
-    color:  #8B8989;
-    margin-bottom: 5px; 
-    font-size: 0.8em; 
-  }
-
 
 

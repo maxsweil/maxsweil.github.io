@@ -12,7 +12,7 @@
     padding-bottom: 2%;
     padding-left:2%;
     padding-right:2%;
-    background: url('./images/background.jpg') no-repeat center fixed; 
+    background: url('./images/background.JPG') no-repeat center fixed; 
     background-size: cover;
     background-position: center;
     min-height: 800px;
@@ -34,7 +34,7 @@
 
   .heading {
     text-align: left;
-    color: black;
+    color: #202626;
     margin-bottom: 10px;
     font-size: 2.5em; 
     font-weight: 550;
@@ -42,7 +42,7 @@
 
   .heading-2 {
     text-align: center;
-    color: black;
+    color: #202626;
     margin-bottom: 3%;
     font-size: 2.5em; 
     font-weight: 500;
@@ -73,7 +73,7 @@
   }
   
   .buttons li a {
-      background: indianred; 
+      background: #CAD959; 
       border: white solid 1px; 
       border-radius: 7px;
       color: white; 
@@ -88,8 +88,8 @@
   
   .buttons li a:hover {
       background: white;
-      border: 1px solid indianred;
-      color: indianred; 
+      border: 1px solid #CAD959;
+      color: #CAD959; 
   }
 
   /*---about page--*/
@@ -98,7 +98,7 @@
       background: white;
       padding: 20px;
       border-radius: 20px; 
-      color: black; 
+      color: #202626; 
       font-size: 20px;
   }
 
@@ -115,8 +115,8 @@
     color: white;
     margin: 20px auto; 
     font-weight: 550;
-    background: indianred; 
-    border: indianred solid 1px; 
+    background: #CAD959; 
+    border: #CAD959 solid 1px; 
     border-radius: 7px;
     margin-right: 5px;
     padding: 14px; 
@@ -127,8 +127,8 @@
   .single-button a:hover {
       background: white;
       text-decoration: none;
-      border: 1px solid indianred;
-      color: indianred; 
+      border: 1px solid #CAD959;
+      color: #CAD959; 
   }
 
   .even {
@@ -139,7 +139,7 @@
     margin-bottom: 5%;
     padding: 2%; 
     border-radius: 20px;
-    color: black;
+    color: #202626;
   }
 
   .odd {
@@ -148,7 +148,23 @@
     border-top: 1px solid white;
     padding: 2%; 
     border-radius: 20px;
-    color: black;
+    color: #202626;
+  }
+
+   /*---honors page--*/
+
+   .title {
+    text-align: left;
+    margin-bottom: 10px; 
+    font-size: 1.7em; 
+    font-weight: 550;
+  }
+
+  .date {
+    text-align: left;
+    color:  #8B8989;
+    margin-bottom: 5px; 
+    font-size: 0.8em; 
   }
 
 

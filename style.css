@@ -36,7 +36,7 @@
     text-align: left;
     color: #202626;
     margin-bottom: 10px;
-    font-size: 2.5em; 
+    font-size: 3em; 
     font-weight: 550;
   }
 
@@ -44,7 +44,7 @@
     text-align: center;
     color: #202626;
     margin-bottom: 3%;
-    font-size: 2.5em; 
+    font-size: 3em; 
     font-weight: 500;
   }
 
@@ -63,7 +63,7 @@
   .buttons {
     color: white;
     margin-bottom: 30px; 
-    font-size: 1.5em; 
+    font-size: 1.75em; 
     font-weight: 450;
     margin-top: 30px;
   }
@@ -74,7 +74,7 @@
   
   .buttons li a {
       background: #CAD959; 
-      border: white solid 1px; 
+      border: #CAD959 solid 3px; 
       border-radius: 7px;
       color: white; 
       margin-right: 5px;
@@ -83,18 +83,17 @@
       margin-left: 0;
       padding: 14px; 
       text-decoration: none;
-      font-size: 0.9em; 
+      font-size: 1em; 
   }
   
   .buttons li a:hover {
       background: white;
-      border: 1px solid #CAD959;
+      border: 3px solid #CAD959;
       color: #CAD959; 
   }
 
   /*---about page--*/
   .bio {
-      max-width: 400px;
       background: white;
       padding: 20px;
       border-radius: 20px; 
@@ -107,7 +106,7 @@
     color: white;
     margin-bottom: 15px;
     margin-top: 15px; 
-    font-size: 1.3em; 
+    font-size: 1.25em; 
     display: inline-block;
   }
 
@@ -116,18 +115,18 @@
     margin: 20px auto; 
     font-weight: 550;
     background: #CAD959; 
-    border: #CAD959 solid 1px; 
+    border: #CAD959 solid 3px; 
     border-radius: 7px;
     margin-right: 5px;
     padding: 14px; 
     text-decoration: none;
-    font-size: 0.9em; 
+    font-size: 1em; 
   }
   
   .single-button a:hover {
       background: white;
       text-decoration: none;
-      border: 1px solid #CAD959;
+      border: 3px solid #CAD959;
       color: #CAD959; 
   }
 
@@ -151,12 +150,10 @@
     color: #202626;
   }
 
-   /*---honors page--*/
-
    .title {
     text-align: left;
     margin-bottom: 10px; 
-    font-size: 1.7em; 
+    font-size: 2em; 
     font-weight: 550;
   }
 
@@ -164,8 +161,6 @@
     text-align: left;
     color:  #8B8989;
     margin-bottom: 5px; 
-    font-size: 0.8em; 
+    font-size: 1em; 
   }
-
-
 
